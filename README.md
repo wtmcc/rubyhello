@@ -1,6 +1,6 @@
 # rubyhello
 
-A toy Docker project. Ruby/Sinatra hello world.
+A toy Docker project. Ruby/Sinatra hello world. It listens for HTTP on 4567, and returns `"Hello, world!"` when you `GET "/"`.
 
 ## Building
 
